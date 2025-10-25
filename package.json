@@ -1,0 +1,16 @@
+{
+  "name": "cukicahamas-14",
+  "version": "1.0.0",
+  "description": "A simple Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hello-world",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
